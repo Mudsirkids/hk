@@ -1,7 +1,7 @@
 # hk
 Git cloning accounts for PUBG mobile 
 Turmix.come haram
-/Hk.git
+README.md/Hk.git clone
 Cd
 Hk
 Python hk.py
